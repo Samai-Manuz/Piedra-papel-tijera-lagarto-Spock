@@ -7,7 +7,6 @@
 ✨ *Integrantes:*  
 - 🌸 **Roxana** — *Scrum Team*  
 - 💎 **Gema** — *Scrum Team*  
-- 🌹 **Mercedes** — *Scrum Team*  
 - 🌙 **Samai Manuz** — *Scrum Master*
 
 ---
@@ -27,3 +26,4 @@ El jugador se enfrenta al ordenador en un duelo de estrategia, azar y risas,
 con mensajes explicativos y un marcador final.  
 
 ---
+
